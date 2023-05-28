@@ -1,0 +1,26 @@
+.inner{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.jumbotron{
+    padding-left: 200px;
+}
+
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: #2b2b2b;
+    text-align: center;
+    padding-top: 25px;
+    color: white;
+    margin-top: 50px;
+}
+
+.col-6{
+    margin-top: 20px;
+}
+
+.btn{
+    margin-top: 10px;
+}
